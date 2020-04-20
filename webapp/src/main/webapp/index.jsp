@@ -12,4 +12,4 @@
 <h1>Second ansible playbook is used to download the image in the Docker EC2 Instance(Target) and run the container there</h1>
 
 
-<h2> Glad to see you here </h2>
+<h2> For Kubernetes commit </h2>
